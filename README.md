@@ -3,7 +3,7 @@ Họ và tên: Đường Thảo Vy <br>
 MSSV: B2203487 <br>
 Ngành: Hệ thống thông tin - K48 <br>
 Trường: Đại học Cần Thơ
-# 📕 Hệ Thống Bán Sách Trực Tuyến (Hard Copy) theo mô hình MV 
+# 📚 Hệ Thống Bán Sách Trực Tuyến (Hard Copy) theo mô hình MV 
 ## ✨ Giới thiệu thành viên
 
  <li> Đường Thảo Vy
@@ -27,7 +27,7 @@ Tuy nhiên, một vấn đề quan trọng đặt ra là làm sao để xây d�
 <li> Hệ thống dễ dàng tìm kiếm các loại sách phù hợp theo thể loại và giá cả
 <li> Hỗ trợ các nhà cung cấp tiết kiệm thời gian và hiệu quả kinh doanh tròn quản lý kho và xử lý đơn hàng
 
-## 🎯  Mục tiêu đề tài 
+## 🚩  Mục tiêu đề tài 
 ### 1. Mục tiêu tổng quát
 Hệ thống bán sách (hard copy) được xây dựng nhằm hỗ trợ các quy trình vận hành của cửa hàng, giúp tối ưu hóa việc quản lý thông tin sách, đơn hàng, khách hàng và doanh thu. Xây dựng hệ thống với giao diện trực quan và dễ sử dụng, hệ thống đảm bảo tính tiện lợi và hiệu quả cho cả quản lý, nhân viên cửa hàng lẫn khách hàng.
 ### 2. Mục tiêu cụ thể 
