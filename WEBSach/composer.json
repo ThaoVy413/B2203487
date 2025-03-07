@@ -1,0 +1,17 @@
+{
+    "name": "84779/web-sach",
+    "autoload": {
+        "psr-4": {
+            "84779\\WebSach\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ThaoVy413",
+            "email": "vyb2203487@student.ctu.edu.vn"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
